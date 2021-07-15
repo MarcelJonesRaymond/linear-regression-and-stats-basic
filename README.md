@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcelJonesRaymond
 - 👀 I’m interested in . Artificail intelligence 
 - 🌱 I’m currently learning in "Great learning"
-- 💞️ I’m looking to collaborate on  "major multinational companies"
+- 💞️ I’m looking to collaborate on  "Data analysis companies"
 - 📫 How to reach me .marceljonesraymond@gmail.com
 
 <!---
