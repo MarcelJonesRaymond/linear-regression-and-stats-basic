@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarcelJonesRaymond
-- 👀 I’m interested in . Artificail intelligence 
-- 🌱 I’m currently learning in "Great learning"
+- 👋 Hi, I’m MarcelJonesRaymond(Student @LOYOLA COLLEGE,@CHENNAI,@TN,@INDIA  )
+- 👀 I’m interested in . Artificail intelligence , Data analysis, Data science
+- 🌱 I’m currently learning in "Great learning"(online platform )
 - 💞️ I’m looking to collaborate on  "Data analysis companies"
 - 📫 How to reach me .marceljonesraymond@gmail.com
 
