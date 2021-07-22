@@ -2,7 +2,7 @@
 - 👀 I’m interested in . Artificail intelligence , Data analysis, Data science
 - 🌱 I’m currently learning in "Great learning"(online platform )
 - 💞️ I’m looking to collaborate on  "Data analysis companies"
-- 📫 How to reach me .marceljonesraymond@gmail.com
+- 📫 How to reach me marceljonesraymond@gmail.com
 
 <!---
 MarcelJonesRaymond/MarcelJonesRaymond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
